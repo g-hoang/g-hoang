@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Giang Hoang.I’m currently a student in the University of Mannheim, at Master of Business Informatics program (master thesis is in progress); mainly took courses relating to machine learning topics
+- 🌱 I'm also a working student at SAP as a software engineer. 
+- 👀 I’m opening for a fulltime job after graduation (expecting on September 2022)
+- 📫 You can reach me at: giang.hoang912@gmail.com
