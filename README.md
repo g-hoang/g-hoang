@@ -1,4 +1,4 @@
 - 👋 Giang Hoang - a student in the University of Mannheim, Master of Business Informatics (master thesis is in progress); mainly took courses relating to machine learning topics
-- 🌱 Working student at SAP as a software engineer. 
+- 🌱 Legal compliance engineer at SAP 
 - 👀 Working on topics relating to software development, machine learning and IoT applications
 - 📫 You can reach me at: giang.hoang912@gmail.com
